@@ -1,0 +1,8 @@
+node_modules
+logs.db
+controle.db
+gateway/node_modules
+controle-service/node_modules
+logging-service/node_modules
+logs.db
+controle.db
